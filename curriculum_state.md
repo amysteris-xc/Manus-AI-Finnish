@@ -12,7 +12,7 @@
 
 ## Nykyinen sijainti
 
-C-oppitunti 027 on valmis. Seuraavalla ajoitetulla ajokerralla on luotava venäjän oppitunti 028. Arviointi- tai korjausoppituntoa ei ole tällä hetkellä ajoitettu.
+C-oppitunti 057 on valmis. Seuraavalla ajoitetulla ajokerralla on luotava venäjän oppitunti 058. Arviointi- tai korjausoppituntoa ei ole tällä hetkellä ajoitettu.
 
 | Tila | Oppitunnin tunniste | Aihe | Esivaatimukset |
 |---|---|---|---|
@@ -70,8 +70,68 @@ C-oppitunti 027 on valmis. Seuraavalla ajoitetulla ajokerralla on luotava venäj
 | Valmis | `c-026-counted-byte-equality` | Laskettu tavuyhtäläisyys upotetuilla nollatavuilla | C 001–025 |
 | Valmis | `russian-027-cumulative-conversation-and-review` | Kertynyt fiktiivinen keskustelu ja kertaus | Venäjä 001–026 |
 | Valmis | `c-027-toy-mixing-and-test-vectors` | Turvaton leikkimixing ja kiinteät testivektorit | C 001–026 |
-| Seuraava | `russian-028-likes-and-basic-preferences` | Pitää/ei pidä -ilmaisut ja perustason mieltymykset | Venäjä 001–027 |
-| Suunniteltu seuraavan jälkeen | `c-028-structured-text-and-byte-boundaries` | Rakennekielinen tekstin jäsennys, tavurajat ja tarkistettu muunnos | C 001–027 |
+| Valmis | `russian-028-likes-and-basic-preferences` | Pitämiset, ei-pitämiset ja perusmieltymykset | Venäjä 001–027 |
+| Valmis | `c-028-structured-text-and-byte-boundaries` | Structured Text and Byte Boundaries | C 001–027 |
+| Valmis | `russian-029-telling-time-on-the-hour` | Tasatuntien ilmoittaminen | Venäjä 001–028 |
+| Valmis | `c-029-hexadecimal-decoding-with-bounds` | Heksadesimaalinen dekoodaus rajoituksin | C 001–028 |
+| Valmis | `russian-030-months-and-seasons-overview` | Kuukaudet ja vuodenajat: yleiskatsaus | Venäjä 001–029 |
+| Valmis | `c-030-checked-byte-array-reverse` | Tarkastettu tavutaulukon kääntäminen | C 001–029 |
+| Valmis | `russian-031-colors-and-object-agreement` | Värit ja adjektiivien suvun mukaantuminen | Venäjä 001–030 |
+| Valmis | `c-031-counted-byte-substring-search` | Laskettujen tavujen alimerkkijonon haku | C 001–030 |
+| Valmis | `russian-032-conjunctions-i-a-and-no` | Yhdistä ajatuksia käyttäen `и`, `а`, ja `но` | Venäjä 001–031 |
+| Valmis | `c-032-counted-run-length-byte-decoding` | Run-length-tavujen purku (count, byte) | C 001–031 |
+| Valmis | `russian-033-modes-of-transport-with-na` | Kulkuvälineet `на` | Venäjä 001–032 |
+| Valmis | `c-033-multi-field-binary-record-validation` | Monikenttäisen binaaritietueen validointi | C 001–032 |
+| Valmis | `russian-034-shopping-and-skolko-stoit` | Ostoskyselyt (kanssa `Сколько стоит?`) | Venäjä 001–033 |
+| Valmis | `c-034-sliding-window-byte-matching` | Liukuikkuna: tavujen vertailu | C 001–033 |
+| Valmis | `russian-035-adverbs-of-frequency` | Taajuusadverbit | Venäjä 001–034 |
+| Valmis | `c-035-fixed-size-circular-byte-buffer` | Kiinteänkokoinen tavujen ympyräpuskuri | C 001–034 |
+| Valmis | `russian-036-giving-simple-instructions-imperatives` | Yksinkertaisten ohjeiden antaminen imperatiiveilla | Venäjä 001–035 |
+| Valmis | `c-036-prefix-length-matching-on-byte-slices` | Etuliitteen pituuden vertailu tavupaloissa | C 001–035 |
+| Valmis | `russian-037-languages-and-speaking-po-russki` | Kielet ja puhuminen `по-русски` | Venäjä 001–036 |
+| Valmis | `c-037-checked-variable-byte-integer-encoding` | Tarkistettu muuttuvapituisen tavun kokonaislukukoodaus | C 001–036 |
+| Valmis | `russian-038-spatial-prepositions-okolo-and-ryadom` | Sijaintisuhteet käyttäen `около` ja `рядом` | Venäjä 001–037 |
+| Valmis | `c-038-checked-variable-byte-integer-decoding` | Tarkistettu muuttujapituisten tavujen kokonaislukujen dekoodaus | C 001–037 |
+| Valmis | `russian-039-professions-and-occupations` | Ammatit ja elinkeinot | Venäjä 001–038 |
+| Valmis | `c-039-simple-bit-level-parity-calculation` | Yksinkertainen bittitason pariteettilaskenta | C 001–038 |
+| Valmis | `russian-040-expressing-reasons-with-potomu-chto` | Syyjen ilmaiseminen käyttäen `потому что` | Venäjä 001–039 |
+| Valmis | `c-040-lookup-table-bit-count-calculation` | Hakutaulukon bittien laskenta | C 001–039 |
+| Valmis | `russian-041-body-parts-and-physical-states` | Kehon osat ja fyysinen olotila | Venäjä 001–040 |
+| Valmis | `c-041-byte-wise-xor-masking-and-unmasking` | Tavuittainen XOR-maskaus ja purku | C 001–040 |
+| Valmis | `russian-042-expressing-agreement-and-opinion` | Suostumuksen ja mielipiteen ilmaiseminen | Venäjä 001–041 |
+| Valmis | `c-042-non-cryptographic-crc8-computation` | Ei-kryptografinen CRC-8-laskenta | C 001–041 |
+| Valmis | `russian-043-seasons-and-weather-nuances` | Sään vivahteet ja ilmastokuvaukset | Venäjä 001–042 |
+| Valmis | `c-043-table-driven-crc8-verification` | Taulukko-ohjattu CRC-8-varmennus | C 001–042 |
+| Valmis | `russian-044-post-office-and-letters-vocabulary` | Kirjeet, viestit ja toimitus | Venäjä 001–043 |
+| Valmis | `c-044-counted-byte-buffer-deduplication` | Laskettu tavupuskurien duplikaattien poisto | C 001–043 |
+| Valmis | `russian-045-sports-and-exercise-routines` | Urheilu ja liikuntarutiinit | Venäjä 001–044 |
+| Valmis | `c-045-binary-key-value-frame-serialization` | binaarisen avain–arvo-kehyksen serialisointi | C 001–044 |
+| Valmis | `russian-046-rooms-in-a-house-and-furniture` | Huoneet talossa ja huonekalut | Venäjä 001–045 |
+| Valmis | `c-046-binary-key-value-frame-parsing` | Binäärisen avain-arvo-kehyksen jäsentäminen | C 001–045 |
+| Valmis | `russian-047-clothing-and-dressing-verbs` | Vaatteiden sanasto ja yksinkertaisia kuvauksia | Venäjä 001–046 |
+| Valmis | `c-047-checked-big-endian-64bit-integer-encoding` | Tarkistettu big-endian 64-bittisen uint64_t:n koodaus | C 001–046 |
+| Valmis | `russian-048-shopping-for-clothes-and-size` | Vaatteiden ostaminen ja koon kyselyt | Venäjä 001–047 |
+| Valmis | `c-048-checked-big-endian-64bit-integer-decoding` | Tarkistettu big-endian 64-bittisen kokonaisluvun dekoodaus | C 001–047 |
+| Valmis | `russian-049-music-art-and-cultural-interests` | Musiikki, taide ja kulttuuriset kiinnostuksen kohteet | Venäjä 001–048 |
+| Valmis | `c-049-constant-time-byte-buffer-equality-check` | Vakioaikainen tavupuskurin yhtäsuuruuden tarkistus | C 001–048 |
+| Valmis | `russian-050-travel-plans-and-buying-tickets` | Matkasuunnitelmat ja lippujen ostaminen | Venäjä 001–049 |
+| Valmis | `c-050-toy-sponge-mixing-and-security-limits` | Lelusienen sekoittuminen ja turvallisuusrajat | C 001–049 |
+| Valmis | `russian-051-hotels-and-accommodation` | Hotellit ja majoitus | Venäjä 001–050 |
+| Valmis | `c-051-fixed-size-fifo-byte-queue` | Kiinteänkokoinen FIFO-tavujono | C 001–050 |
+| Valmis | `russian-052-ordering-in-a-cafe-and-bill` | Tilauksen tekeminen kahvilassa ja laskun pyytäminen | Venäjä 001–051 |
+| Valmis | `c-052-byte-array-compaction-and-filtering` | Tavujoukon tiivistäminen ja suodatus | C 001–051 |
+| Valmis | `russian-053-asking-for-help-and-clarification` | Avun ja selvennyksen pyytäminen | Venäjä 001–052 |
+| Valmis | `c-053-bitset-implementation-on-uint8-arrays` | Bitsetin toteutus uint8_t-taulukoilla | C 001–052 |
+| Valmis | `russian-054-future-intentions-with-planiruyu` | Tulevaisuuden aikeet `я планирую` | Venäjä 001–053 |
+| Valmis | `c-054-simple-base64-encoding-for-byte-buffers` | Yksinkertainen Base64-koodaus tavupuskurille | C 001–053 |
+| Valmis | `russian-055-polite-phone-and-message-etiquette` | Viestintäetiketti | Venäjä 001–054 |
+| Valmis | `c-055-simple-base64-decoding-with-validation` | Yksinkertainen Base64-purku ja validointi | C 001–054 |
+| Valmis | `russian-056-idiomatic-expressions-and-sayings` | Yleisiä idiomisia ilmauksia ja sanontoja | Venäjä 001–055 |
+| Valmis | `c-056-binary-safe-merge-of-two-sorted-byte-lists` | Kahden lajitellun tavulistan binääriturvallinen yhdistäminen | C 001–055 |
+| Valmis | `russian-057-comprehensive-review-and-capstone-dialogue` | Kattava kertaus ja päätöskeskustelu | Venäjä 001–056 |
+| Valmis | `c-057-comprehensive-byte-stream-state-machine` | Kattava tavujonon tilakone | C 001–056 |
+| Seuraava | `russian-058-expressing-wishes-and-future-ambitions` | Toiveiden ja tulevaisuuden tavoitteiden ilmaiseminen rakenteella `хотелось бы` | Venäjä 001–057 |
+| Suunniteltu seuraavan jälkeen | `c-058-multi-packet-reassembly-buffers` | Monipakettiset uudelleenkokoonpanopuskurit tarkistetuilla järjestysnumeroilla | C 001–057 |
 
 ## Pitkän aikavälin C-välitavoitteet
 
@@ -105,3 +165,5 @@ C-oppitunti 027 on valmis. Seuraavalla ajoitetulla ajokerralla on luotava venäj
 - **2026-09-25 — Laajennettu erä valmis (Venäjä 008–017 ja C 008–017).** Venäjän polku eteni omistuksesta, monikoista, elottomista suorista objekteista, aikasanasta, yksikön ja monikon menneistä muodoista, yksinkertaisesta tulevaisuudesta, kyvystä, tahdosta ja kertautuvasta hallitusta harjoittelusta. C‑polku eteni eksplisiittiseen tavujärjestykseen, robustiin tiedostokopiointiin, rajattuihin tiedostostatistiikkoihin, tiukkaan jäsentämiseen, dynaamisiin puskureihin, turvallisiin kiertoihin, eksplisiittisesti ei‑kryptografiseen leikkimieliseen checksumiin, dynaamiseen tiedostonlukemiseen, kiinteäotsakkeiseen serialisointiin ja kiinteiden tietueiden katkaisuntarkistuksiin. Kaikki kymmenen C‑seurantaohjelmaa läpäisivät tiukan C17‑käännöksen, deterministiset testit, staattisen analyysin sekä AddressSanitizer/UndefinedBehaviorSanitizer‑ajot. Oppijapalautetta ei ollut saatavilla. Seuraava aihe on Venäjä 018: suunnat ja yleiset paikannimet.
 
 - **2026-09-25 — Laajennettu erä valmis (Venäjä 018–027 ja C 018–027).** Venäjän polku lisäsi suuntia, hallittuja määränpäitä, numerot, ihmissanaston, sään, yksinkertaiset pyynnöt, viikonpäivät, vertailut, kohteliaisuuden ja kertyneen fiktiivisen keskustelun. C‑polku lisäsi tarkistetun tietuekirjoituksen, liitä‑ulostulon, lasketun tavukopion ja yhtäläisyyden, ylivuototietoisen `uint32_t` aritmetiikan, histogrammit, pituus‑etuliitteet, kehyksen dekoodauksen, suoratoisto‑käsittelyn ja selvästi epävarman leikkimixingin kiinteällä vektorilla. Kaikki kymmenen C‑esimerkkiä läpäisivät tiukan C17‑käännöksen, deterministiset testit, staattisen analyysin sekä AddressSanitizer/UndefinedBehaviorSanitizer‑suoritukset. Oppijapalautetta ei ollut saatavilla. Seuraava aihe on Venäjä 028: pitää/ei pitää ‑ilmaisut ja perustason mieltymykset.
+
+- **2026-09-25 — Erälaajennus valmis (Venäjä 028–057 ja C 028–057).** Venäjän polku laajeni perustason mieltymyksistä ostostilanteisiin, toistuvuuden adverbeihin, imperatiiveihin, kieliin, sijainteihin, ammatteihin, perusteluihin, ruumiinosiin, mielipiteisiin, sääilmaisuihin, viesteihin, urheiluun, kodin tiloihin, vaatetukseen, matkustamiseen, kahvilatilauksiin, selvennyspyyntöihin, tulevaisuudensuunnitelmiin, viestintäetikettiin, sananlaskuihin ja laajaan loppukeskusteluun. C-polku kattoi jäsennellyn tekstin analyysin, heksadesimaalidekoodauksen, tavujen kääntämisen, osajonohaun, RLE-purun, TLV-validoinnin, liukuvan ikkunan, rengaspuskurit, etuliiteleikkeet, varint-koodauksen ja -purun, pariteetin, popcountin, XOR-maskauksen, CRC-8:n, duplikaattien poiston, TLV-kehykset, 64-bittiset big-endian-muunnokset, vakioaikaisen vertailun, leikkisienen tiivisteen, FIFO-jonot, tiivistämisen, bittijoukot, Base64-koodauksen/dekoodauksen, lajiteltujen listojen yhdistämisen ja protokollan tilakoneen. Kaikki 30 uutta C-oheisohjelmaa läpäisivät ISO C17 -käännöksen, deterministiset testit, -fanalyzer-analyysin ja osoite-/määrittelemättömän käytöksen tarkistukset. Seuraava aihe on Venäjä 058.
